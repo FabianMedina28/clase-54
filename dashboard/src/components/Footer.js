@@ -14,4 +14,4 @@ function Footer(){
         </React.Fragment>
     )
 }
-export default Footer;
+export default Footer; 
